@@ -158,9 +158,9 @@ In any case, the conversion of prompt clauses to rows and columns is from top to
 ```
 (blue sky:1.2) ADDCOL
 green hair twintail ADDCOL
-(aquarium:1.3) ADDROW
-(messy desk:1.2) ADDCOL
-orange dress and sofa
+bookshelf ADDROW
+(terrarium:1.3) on the desk ADDCOL
+orange dress and sofa,
 ```
 
 ```
