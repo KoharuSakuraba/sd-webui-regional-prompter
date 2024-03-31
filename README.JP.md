@@ -96,9 +96,9 @@ best quality, 20yo lady in garden, blue skirt
 ```
 (blue sky:1.2) ADDCOL
 green hair twintail ADDCOL
-(aquarium:1.3) ADDROW
-(messy desk:1.2) ADDCOL
-orange dress and sofa
+bookshelf ADDROW
+(terrarium:1.3) on the desk ADDCOL
+orange dress and sofa,
 ```
 
 ```
